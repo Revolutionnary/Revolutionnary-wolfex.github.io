@@ -1,7 +1,7 @@
 // JSONBin.io Configuration
 const API_URL = 'https://api.jsonbin.io/v3/b';
-const USERS_BIN_ID = '69153c3cae596e708f55d35c';
-const MESSAGES_BIN_ID = '69153c3cae596e708f55d35c'; // You can use same bin or create separate
+const USERS_BIN_ID = '69154878d0ea881f40e52de7';
+const MESSAGES_BIN_ID = '69154878d0ea881f40e52de7'; // You can use same bin or create separate
 const API_KEY = '$2a$10$4NfyVgkwl.bznTjox0vAKO0pRHUcyz08xIXVpqWX4e9kurX/p6TLK';
 
 // Current user session
@@ -578,3 +578,4 @@ function escapeHtml(text) {
     div.textContent = text;
     return div.innerHTML;
 }
+
